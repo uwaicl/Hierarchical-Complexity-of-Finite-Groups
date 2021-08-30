@@ -1,4 +1,8 @@
-# Hierarchical-Complexity-of-Finite-Groups
+# Hierarchical Complexity of Finite Groups
+(prepint) 
+
+Chrystopher L. Nehaniv
+
 
 What are simplest ways to construct a finite group from its atomic constituents?   To understand part-whole relations between finite simple groups and the global structure of finite groups, we axiomatize complexity measures on finite groups.  
 From the Jordan-Hölder theorem and Frobenius-Lagrange embedding in an iterated wreath product, any finite group _G_ can be constructed from a unique collection of simple groups, its Jordan-Höder factors, each with well-defined multiplicities through iterated extension. What is the least number of levels needed in such a hierarchical construction if a level is allowed to include several of these atomic pieces? 
@@ -8,3 +12,6 @@ We prove this function is the same as the minimal number of "spans of gems" (dir
 For solvable groups, the unique maximal group complexity measure defined satisfying the axioms agrees with the restriction of the one for all finite groups, and in addition satisfies an embedding axiom.  In both cases, the complexity of a group is bounded above and below by various natural functions. In particular, hierarchical complexity is sharply bounded above by socle length, with a canonical decomposition. Examples illustrate applications of the bounds and axiomatic methods in determining complexity of groups. We show also that minimal decompositions need not be unique in terms of what components occur nor their ordering. 
 
 The complexity axioms are also shown to be independent.
+
+University of Waterloo,  30 August 2021
+
